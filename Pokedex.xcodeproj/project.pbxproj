@@ -222,17 +222,20 @@
 					F8A02D9F1EBA17CA007A320C = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 6CZKLN54PG;
+						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
 					F8A02DB31EBA17CA007A320C = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 6CZKLN54PG;
+						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 						TestTargetID = F8A02D9F1EBA17CA007A320C;
 					};
 					F8A02DBE1EBA17CA007A320C = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 6CZKLN54PG;
+						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 						TestTargetID = F8A02D9F1EBA17CA007A320C;
 					};
